@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "spx_common.h": "c",
+        "spx_trader.h": "c",
+        "spx_exchange.h": "c",
+        "stat.h": "c",
+        "wait.h": "c",
+        "signal.h": "c"
+    }
+}
