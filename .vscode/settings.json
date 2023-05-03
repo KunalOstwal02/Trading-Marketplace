@@ -1,0 +1,9 @@
+{
+    "files.associations": {
+        "wait.h": "c",
+        "spx_exchange.h": "c",
+        "*.tcc": "c",
+        "typeinfo": "c"
+    },
+    "C_Cpp.errorSquiggles": "Enabled"
+}
